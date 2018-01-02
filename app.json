@@ -1,0 +1,16 @@
+{
+  "name": "demo-deploy",
+  "scripts": {
+    "postdeploy": "bin/update"
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
