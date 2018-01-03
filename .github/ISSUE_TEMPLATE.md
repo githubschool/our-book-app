@@ -1,6 +1,4 @@
-Be sure to fill out the template below when submitting a new Issue!
-
-- **tl;dr** _1-2 sentences describing the purpose of this issue and how others can help_
+**tl;dr** _1-2 sentences describing the purpose of this issue and how others can help_
 
 ### Background
 
